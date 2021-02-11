@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "tw3ha Tweak for adel"
+					"markdown": "tw3sp Tweak for tw3ha"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "6.7",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 
@@ -36,17 +36,17 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 9.0 - 13",
+					"text": "iOS 7.0 - 13",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "adel",
+					"text": "SourcePlus",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "adel",
+					"text": "adelsami",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -74,18 +74,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "6.6",
+					"title": "4.9",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update tool icons and download new programs",
+					"markdown": "\t\n\u2022 Update  version 2.8",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update tool icons and download new programs",
+					"markdown": "\t\n\u2022 Update  version 2.8",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
