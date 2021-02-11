@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "tw3ha Tweak for adel"
+					"markdown": "AdsEditor Tweak for adel"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "11.0.3",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 
@@ -36,17 +36,17 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 9.0 - 13",
+					"text": "iOS 7.0 - 13",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "adel",
+					"text": "AdsEditor",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "adel",
+					"text": "adelsami",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -74,18 +74,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "4.9",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 11.0.3 for Co-OP",
+					"markdown": "\t\n\u2022 Update  version 1.0",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 11.0.3 for Co-OP",
+					"markdown": "\t\n\u2022 Update  version 1.0",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
