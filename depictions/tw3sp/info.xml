@@ -12,7 +12,7 @@
 	<dependencies>
 <package>mobilesubstrate</package>
 <package>ws.hbang.common</package>
-<package>com.tw1sp.tw1sp</package>
+
 	</dependencies> 
 	<shortDescription>Tool to hack some programs, games,and reomv ads, and changes with Spring</shortDescription>
 	<descriptionlist>
