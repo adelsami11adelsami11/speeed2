@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "AdsEditor Tweak for adel"
+					"markdown": "tw1sp Tweak for adel"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 
@@ -36,17 +36,17 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 7.0 - 13",
+					"text": "iOS 9.0 - 13",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "AdsEditor",
+					"text": "adel",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "adelsami",
+					"text": "adel",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -74,18 +74,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0",
+					"title": "6.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update  version 1.0",
+					"markdown": "\t\n\u2022 Update tool icons and download new programs",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update  version 1.0",
+					"markdown": "\t\n\u2022 Update tool icons and download new programs",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}

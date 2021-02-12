@@ -2,19 +2,37 @@ Package: com.tw1sp.tw1sp
 Version: 1.1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tw1sp tw1sp <tw1sp@gmail.com>
-Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common , com.tw3sp.tw3sp
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common , com.tw3sp.tw3sp, com.tw2sp.tw2sp, com.tw4sp.tw4sp, com.tw5sp.tw5sp
 Filename: ./debs/com.tw1sp.tw1sp_1.1.0-1+debug_iphoneos-arm.deb
-Size: 31662
-MD5sum: 0f6fffbe016e7052245d1f6e1b8c5e76
-SHA1: a3ae734e73e95e6084c88a0dd337bb2d86a16717
-SHA256: 5f1f64d9de7e21b8c53a010a58fa7426ceed2b93faa7edba4becd415312e9a25
-Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw3sp
-SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw3sp.json
+Size: 60430
+MD5sum: 72b75a0a885286591dea9b5002bec0fb
+SHA1: af6db2bac62f6860f21259210ab0690a063c8c9c
+SHA256: c19f35be1f95db186e16348c502109527b9aa619127e2d2815a8e6eadff7833e
+Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw1sp
+SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw1sp.json
 Section: Tweaks
 Description: tw1sp's Law for iOS 11
 Author: tw1sp tw1sp <tw1sp@gmail.com>
-Installed-Size: 344
+Installed-Size: 464
 Name: tw1sp
+
+Package: com.tw2sp.tw2sp
+Version: 1.1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: tw2sp tw2sp <tw2sp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
+Filename: ./debs/com.tw2sp.tw2sp_1.1.0-1+debug_iphoneos-arm.deb
+Size: 31320
+MD5sum: 4f0a9cddc8081cbb7a03f8d9a876b1eb
+SHA1: d34f6940d8957424d5c44851347f28e81a3e0f51
+SHA256: 29f5c032a06bf322510acb95f511dccb2fd89eb7326a918d8171fe82647c3244
+Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw2sp
+SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw2sp.json
+Section: Tweaks
+Description: tw2sp's Law for iOS 11
+Author: tw2sp tw2sp <tw2sp@gmail.com>
+Installed-Size: 344
+Name: tw2sp
 
 Package: com.tw3sp.tw3sp
 Version: 1.1.0-1+debug
@@ -26,11 +44,47 @@ Size: 32530
 MD5sum: d87b4293420f4356f2fdfb559e902e1d
 SHA1: e6faef223fc3df170d918fb5d0dbf44afaead39e
 SHA256: c0d82d1dc731cc67e355514986ec861878be6c9d73590f1fd258215c4693f26f
-Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw1sp
-SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw1sp.json
+Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw3sp
+SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw3sp.json
 Section: Tweaks
 Description: tw3sp's Law for iOS 11
 Author: tw3sp tw3sp <tw3sp@gmail.com>
 Installed-Size: 364
 Name: tw3sp
+
+Package: com.tw4sp.tw4sp
+Version: 1.1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: tw4sp tw4sp <tw4sp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
+Filename: ./debs/com.tw4sp.tw4sp_1.1.0-1+debug_iphoneos-arm.deb
+Size: 30392
+MD5sum: 6ebe8aa0325bc60f5f99cf91c1352df8
+SHA1: 74b6916a9839a4fbcb767a3a7cf6eb73850c0081
+SHA256: 0401f79e466950f6e9423bc4913f5b66db14c4652f41ce3169d53e1150a37ac5
+Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw4sp
+SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw4sp.json
+Section: Tweaks
+Description: tw4sp's Law for iOS 11
+Author: tw4sp tw4sp <tw4sp@gmail.com>
+Installed-Size: 336
+Name: tw4sp
+
+Package: com.tw5sp.tw5sp
+Version: 1.1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: tw5sp tw5sp <tw5sp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
+Filename: ./debs/com.tw5sp.tw5sp_1.1.0-1+debug_iphoneos-arm.deb
+Size: 44420
+MD5sum: 8ff47e2a07fbc25411e05db907d85369
+SHA1: bfe57d3409413946b65c3e0265f4c42d6683afba
+SHA256: 63abd139068d31679eec8a68c00378c0c439e91dd72bb7b869e51be574e45633
+Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw5sp
+SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw5sp.json
+Section: Tweaks
+Description: tw5sp's Law for iOS 11
+Author: tw5sp tw5sp <tw5sp@gmail.com>
+Installed-Size: 336
+Name: tw5sp
 

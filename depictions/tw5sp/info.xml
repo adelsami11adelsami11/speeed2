@@ -16,6 +16,10 @@
 		<package>com.tw3sp.tw3sp</package>
 		<package>com.tw4sp.tw4sp</package>
 		<package>com.tw5sp.tw5sp</package>
+		<package>com.tw6sp.tw6sp</package>
+		<package>com.tw7sp.tw7sp</package>
+		<package>com.tw8sp.tw8sp</package>
+		<package>com.tw9sp.tw9sp</package>
 	</dependencies>
 	<shortDescription>Tool to hack some programs, games,and reomv ads, and changes with Spring</shortDescription>
 	<descriptionlist>
