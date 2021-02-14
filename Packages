@@ -1,13 +1,13 @@
 Package: com.tw1sp.tw1sp
-Version: 2.0
+Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: tw1sp tw1sp <tw1sp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common , com.tw3sp.tw3sp, com.tw2sp.tw2sp, com.tw4sp.tw4sp, com.tw5sp.tw5sp
-Filename: ./debs/com.tw1sp.tw1sp_2.0_iphoneos-arm.deb
-Size: 60420
-MD5sum: c336a9e0c817640eaba7c0bb77a23eeb
-SHA1: 69da902ef95611cd4c4051dce23791ee856f5ea8
-SHA256: 0f832913bc8a5abf7b5baa63494fce2336f0c8aeae833f59c5a1159f722bfad8
+Filename: ./debs/com.tw1sp.tw1sp_3.0_iphoneos-arm.deb
+Size: 60406
+MD5sum: 8b708c72b4077f53706f29c4060b6546
+SHA1: cb9a81d35fabf29817a666e7c9d1ac49d6455eb9
+SHA256: 63e1d7971fc85978fc11a4da93418991c811980a45ac76d39f49bf7e3574ae30
 Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw1sp
 SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw1sp.json
 Section: Tweaks
