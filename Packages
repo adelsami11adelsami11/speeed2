@@ -1,13 +1,13 @@
 Package: com.tw1sp.tw1sp
-Version: 3.0
+Version: 5.0
 Architecture: iphoneos-arm
 Maintainer: tw1sp tw1sp <tw1sp@gmail.com>
-Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common , com.tw3sp.tw3sp, com.tw2sp.tw2sp, com.tw4sp.tw4sp, com.tw5sp.tw5sp
-Filename: ./debs/com.tw1sp.tw1sp_3.0_iphoneos-arm.deb
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common , com.tw3sp.tw3sp
+Filename: ./debs/com.tw1sp.tw1sp_5.0_iphoneos-arm.deb
 Size: 60406
-MD5sum: 8b708c72b4077f53706f29c4060b6546
-SHA1: cb9a81d35fabf29817a666e7c9d1ac49d6455eb9
-SHA256: 63e1d7971fc85978fc11a4da93418991c811980a45ac76d39f49bf7e3574ae30
+MD5sum: 7aa3df5d08348ddd7304d9e9a0afb8d4
+SHA1: 72647e1e18b754fb8c838b4bfc00069d76111e27
+SHA256: 85d903c81e7e22486ecbf72e2e839148228b246c594e062e18335945e099316e
 Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw1sp
 SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw1sp.json
 Section: Tweaks
@@ -17,15 +17,15 @@ Installed-Size: 464
 Name: tw1sp
 
 Package: com.tw2sp.tw2sp
-Version: 1.1.0-1+debug
+Version: 3.1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tw2sp tw2sp <tw2sp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
-Filename: ./debs/com.tw2sp.tw2sp_1.1.0-1+debug_iphoneos-arm.deb
-Size: 31320
-MD5sum: 4f0a9cddc8081cbb7a03f8d9a876b1eb
-SHA1: d34f6940d8957424d5c44851347f28e81a3e0f51
-SHA256: 29f5c032a06bf322510acb95f511dccb2fd89eb7326a918d8171fe82647c3244
+Filename: ./debs/com.tw2sp.tw2sp_3.1.0-1+debug_iphoneos-arm.deb
+Size: 45012
+MD5sum: 0dada2f1edc2c932d52c807528fc148c
+SHA1: db1db65571aba2c614a9b2b26aa739e399325384
+SHA256: dc086c4dc72be584fbd6698886eea2db2815c684ca0dff73cdaf786c52d9ced4
 Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw2sp
 SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw2sp.json
 Section: Tweaks
@@ -35,15 +35,15 @@ Installed-Size: 344
 Name: tw2sp
 
 Package: com.tw3sp.tw3sp
-Version: 1.1.0-1+debug
+Version: 3.1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tw3sp tw3sp <tw3sp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
-Filename: ./debs/com.tw3sp.tw3sp_1.1.0-1+debug_iphoneos-arm.deb
-Size: 32530
-MD5sum: d87b4293420f4356f2fdfb559e902e1d
-SHA1: e6faef223fc3df170d918fb5d0dbf44afaead39e
-SHA256: c0d82d1dc731cc67e355514986ec861878be6c9d73590f1fd258215c4693f26f
+Filename: ./debs/com.tw3sp.tw3sp_3.1.0-1+debug_iphoneos-arm.deb
+Size: 46750
+MD5sum: b97a8ea19f25a4467f10db432c4767bb
+SHA1: 12a0d2b80a80b6c665f0eb62e5afc313c0edd4d0
+SHA256: aa1206f1837b8f7231f312e70af28d0099549494fa1a80b57cc044903b51100f
 Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw3sp
 SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw3sp.json
 Section: Tweaks
@@ -53,15 +53,15 @@ Installed-Size: 364
 Name: tw3sp
 
 Package: com.tw4sp.tw4sp
-Version: 1.1.0-1+debug
+Version: 3.1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tw4sp tw4sp <tw4sp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
-Filename: ./debs/com.tw4sp.tw4sp_1.1.0-1+debug_iphoneos-arm.deb
-Size: 30392
-MD5sum: 6ebe8aa0325bc60f5f99cf91c1352df8
-SHA1: 74b6916a9839a4fbcb767a3a7cf6eb73850c0081
-SHA256: 0401f79e466950f6e9423bc4913f5b66db14c4652f41ce3169d53e1150a37ac5
+Filename: ./debs/com.tw4sp.tw4sp_3.1.0-1+debug_iphoneos-arm.deb
+Size: 44576
+MD5sum: fdb41708339eb6c9413151b50f271e4e
+SHA1: 34c02aa713e5277b3b97d11c5a0d810acd9ca8c1
+SHA256: 18ec65a75e38859affe4ec76fa1afe698eab325d602cff3a865919ea79b58394
 Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw4sp
 SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw4sp.json
 Section: Tweaks
@@ -71,15 +71,15 @@ Installed-Size: 336
 Name: tw4sp
 
 Package: com.tw5sp.tw5sp
-Version: 1.1.0-1+debug
+Version: 3.1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tw5sp tw5sp <tw5sp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
-Filename: ./debs/com.tw5sp.tw5sp_1.1.0-1+debug_iphoneos-arm.deb
-Size: 44420
-MD5sum: 8ff47e2a07fbc25411e05db907d85369
-SHA1: bfe57d3409413946b65c3e0265f4c42d6683afba
-SHA256: 63abd139068d31679eec8a68c00378c0c439e91dd72bb7b869e51be574e45633
+Filename: ./debs/com.tw5sp.tw5sp_3.1.0-1+debug_iphoneos-arm.deb
+Size: 44438
+MD5sum: 208a5e965e6122033f8faf31e7d17b5c
+SHA1: 58285055605234ceea0b29598c8fec4da3eaa8c9
+SHA256: 1bebe7cc5044dbb9ad4f8308c5d3df11794669c4038125892cba04a601cb3cf5
 Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw5sp
 SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw5sp.json
 Section: Tweaks

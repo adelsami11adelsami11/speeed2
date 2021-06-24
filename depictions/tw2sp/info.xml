@@ -1,7 +1,7 @@
 <package>
 	<id>com.tw2sp.tw2sp</id>
 	<name>tw2sp</name>
-	<version>1.0</version>
+	<version>3.1.0-1+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
