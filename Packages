@@ -1,13 +1,13 @@
 Package: com.tw1sp.tw1sp
-Version: 5.0
+Version: 5.1
 Architecture: iphoneos-arm
 Maintainer: tw1sp tw1sp <tw1sp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common , com.tw3sp.tw3sp
-Filename: ./debs/com.tw1sp.tw1sp_5.0_iphoneos-arm.deb
-Size: 60406
-MD5sum: 7aa3df5d08348ddd7304d9e9a0afb8d4
-SHA1: 72647e1e18b754fb8c838b4bfc00069d76111e27
-SHA256: 85d903c81e7e22486ecbf72e2e839148228b246c594e062e18335945e099316e
+Filename: ./debs/com.tw1sp.tw1sp_5.1_iphoneos-arm.deb
+Size: 60696
+MD5sum: a494d64bd33afb31e23249ce9a09247d
+SHA1: 00435ca35aba19d184a39b94afd6e351062107f6
+SHA256: d44e0906f3ffc8434fce8f3419119e3877e06d1e0f5bc83a88a70a4799c59e61
 Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw1sp
 SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw1sp.json
 Section: Tweaks
@@ -80,8 +80,8 @@ Size: 44438
 MD5sum: 208a5e965e6122033f8faf31e7d17b5c
 SHA1: 58285055605234ceea0b29598c8fec4da3eaa8c9
 SHA256: 1bebe7cc5044dbb9ad4f8308c5d3df11794669c4038125892cba04a601cb3cf5
-Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw5sp
-SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw5sp.json
+Depiction: https://adelsami11adelsami11.github.io/speeed2/depictions/?p=tw4sp
+SileoDepiction: https://adelsami11adelsami11.github.io/speeed2/sileodepictions/tw4sp.json
 Section: Tweaks
 Description: tw5sp's Law for iOS 11
 Author: tw5sp tw5sp <tw5sp@gmail.com>
